@@ -1,0 +1,11 @@
+Test Case ID,Enabled,url,userName,password,errorMsg
+LoginExpo,0,NaN,sevirathna@gmail.com,Tb983501940@,NaN
+LoginExpo,0,NaN,sevirathnagmail34.com,679679,NaN
+LoginExpo,1,NaN,sevirthna@gmail.com,679888,NaN
+LoginExpo,1,NaN,sevirathnagmail.com,Tb983501940@,NaN
+LoginExpo,1,NaN,sevirathana#gmail.com,,NaN
+LoginExpo,1,NaN,sevirthna@gmail.com,,NaN
+LoginExpo,1,NaN,,456789,NaN
+LoginExpo,1,NaN,, Tb983501940@,NaN
+LoginExpo,1,NaN,,,NaN
+LoginExpo,1,NaN,sevirathna@gmail.com,Tb983501940@,NaN
